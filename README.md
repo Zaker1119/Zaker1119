@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Zaker1119
 - 👀 I’m interested in code, video-games and sports.
-- 🌱 I’m currently learning computer science and I'm in my first year learninig, in France.
+- 🌱 I’m currently learning computer science and I'm in my first year learninig.
 - 😄 Pronouns: he/him.
